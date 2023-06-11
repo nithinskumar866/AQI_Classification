@@ -1,4 +1,5 @@
 INTRODUCTION:
+
 In this project, I created a classification system for the air quality index (AQI) using a dataset on air pollution collected from various locations. The dataset includes several features such as AQI value, carbon monoxide levels, ozone levels, PM2.5 particulate matter, latitude, and longitude. The objective of this project is to categorise the air quality of various locations based on these characteristics.
 
 The air quality dataset utilised for this project provides valuable information regarding the levels of pollution in various regions. It includes measurements of key pollutants and atmospheric conditions, allowing for the development of models that accurately classify a location's air quality index.
